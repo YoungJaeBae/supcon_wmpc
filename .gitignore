@@ -1,0 +1,9 @@
+dataset/MixedWM38
+dataset/WM811k
+dataset/LSWMD.pkl
+dataset/MixedWM38.npz
+results
+saved
+log
+*.sh
+__pycache__
