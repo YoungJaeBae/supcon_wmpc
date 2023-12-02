@@ -1,5 +1,5 @@
 # supcon_wmpc
-PyTorch implementation of the model described in the paper Supervised Contrastive Learning for Wafer Map Pattern Classification
+PyTorch implementation of the model described in the paper Supervised Contrastive Learning for Wafer Map Pattern Classification - https://www.sciencedirect.com/science/article/pii/S0952197623013386
 
 ## Components
 - **data/** - directory where the dataset should be placed
